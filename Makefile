@@ -1,2 +1,5 @@
 all:
 
+clean:
+	$(RM) *~
+
