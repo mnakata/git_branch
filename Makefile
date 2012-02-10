@@ -3,3 +3,5 @@ all:
 clean:
 	$(RM) *~
 
+distclean:
+
